@@ -1,0 +1,15 @@
+C:\Users\varda\Desktop\switch-calculator\switchCalculator\bin\Debug\net6.0\switchCalculator.exe
+C:\Users\varda\Desktop\switch-calculator\switchCalculator\bin\Debug\net6.0\switchCalculator.deps.json
+C:\Users\varda\Desktop\switch-calculator\switchCalculator\bin\Debug\net6.0\switchCalculator.runtimeconfig.json
+C:\Users\varda\Desktop\switch-calculator\switchCalculator\bin\Debug\net6.0\switchCalculator.dll
+C:\Users\varda\Desktop\switch-calculator\switchCalculator\bin\Debug\net6.0\switchCalculator.pdb
+C:\Users\varda\Desktop\switch-calculator\switchCalculator\obj\Debug\net6.0\switchCalculator.csproj.AssemblyReference.cache
+C:\Users\varda\Desktop\switch-calculator\switchCalculator\obj\Debug\net6.0\switchCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varda\Desktop\switch-calculator\switchCalculator\obj\Debug\net6.0\switchCalculator.AssemblyInfoInputs.cache
+C:\Users\varda\Desktop\switch-calculator\switchCalculator\obj\Debug\net6.0\switchCalculator.AssemblyInfo.cs
+C:\Users\varda\Desktop\switch-calculator\switchCalculator\obj\Debug\net6.0\switchCalculator.csproj.CoreCompileInputs.cache
+C:\Users\varda\Desktop\switch-calculator\switchCalculator\obj\Debug\net6.0\switchCalculator.dll
+C:\Users\varda\Desktop\switch-calculator\switchCalculator\obj\Debug\net6.0\refint\switchCalculator.dll
+C:\Users\varda\Desktop\switch-calculator\switchCalculator\obj\Debug\net6.0\switchCalculator.pdb
+C:\Users\varda\Desktop\switch-calculator\switchCalculator\obj\Debug\net6.0\switchCalculator.genruntimeconfig.cache
+C:\Users\varda\Desktop\switch-calculator\switchCalculator\obj\Debug\net6.0\ref\switchCalculator.dll
